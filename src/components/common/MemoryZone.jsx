@@ -11,7 +11,7 @@ const MemoryZone = forwardRef(({ isInView, data }, ref) => (
         className="flex flex-col gap-6"
     >
         <div className="text-6xl font-extrabold text-[#f78da4]">
-            Memories Zone 📸
+            Magic's day 📸
         </div>
 
         <GiftSection data={data} />
