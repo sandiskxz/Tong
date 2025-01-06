@@ -29,7 +29,7 @@ function App() {
                 <div className="flex flex-col items-center max-w-[350px] py-12 gap-16 relative">
                     <Header
                         content={{
-                            title: "✨Happy Birthday✨🎉🎈🎁",
+                            title: "✨Happy Birthday✨🎉 🎈",
                             subtitle: "Magic🪄💜",
                         }}
                     />
