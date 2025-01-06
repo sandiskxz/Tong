@@ -1,0 +1,10 @@
+{
+    "type": "pwa-chrome",
+    "request": "launch",
+    "name": "Launch Chrome",
+    "file": "${workspaceFolder}/index.html",
+    "runtimeExecutable": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "configurations": [
+    
+    ]
+}
