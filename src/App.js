@@ -29,8 +29,8 @@ function App() {
                 <div className="flex flex-col items-center max-w-[350px] py-12 gap-16 relative">
                     <Header
                         content={{
-                            title: "สุขสันต์วันเกิด",
-                            subtitle: "Testing",
+                            title: "✨Happy Birthday✨🎉🎈🎁",
+                            subtitle: "Magic🪄💜",
                         }}
                     />
                     <div className="w-[245px] h-[320px] rounded-lg shadow-lg mb-12">
@@ -57,7 +57,7 @@ function App() {
                         }
                     />
                     <div className={`pb-20 font-bold text-[#f78da4] text-3xl`}>
-                        Captions 💕
+                        Tong huk Magic💕
                     </div>
                 </div>
             </div>
